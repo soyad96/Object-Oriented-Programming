@@ -1,0 +1,7 @@
+C:\Users\Soyad\source\repos\Attack on Titan\Attack on titan\Attack on titan\bin\Debug\Attack on titan.exe.config
+C:\Users\Soyad\source\repos\Attack on Titan\Attack on titan\Attack on titan\bin\Debug\Attack on titan.exe
+C:\Users\Soyad\source\repos\Attack on Titan\Attack on titan\Attack on titan\bin\Debug\Attack on titan.pdb
+C:\Users\Soyad\source\repos\Attack on Titan\Attack on titan\Attack on titan\obj\Debug\Attack on titan.csproj.AssemblyReference.cache
+C:\Users\Soyad\source\repos\Attack on Titan\Attack on titan\Attack on titan\obj\Debug\Attack on titan.csproj.CoreCompileInputs.cache
+C:\Users\Soyad\source\repos\Attack on Titan\Attack on titan\Attack on titan\obj\Debug\Attack on titan.exe
+C:\Users\Soyad\source\repos\Attack on Titan\Attack on titan\Attack on titan\obj\Debug\Attack on titan.pdb
