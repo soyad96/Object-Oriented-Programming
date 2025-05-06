@@ -1,0 +1,7 @@
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment2\Assicment3\assicment3\assicment3\bin\Debug\assicment3.exe.config
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment2\Assicment3\assicment3\assicment3\bin\Debug\assicment3.exe
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment2\Assicment3\assicment3\assicment3\bin\Debug\assicment3.pdb
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment2\Assicment3\assicment3\assicment3\obj\Debug\assicment3.csproj.AssemblyReference.cache
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment2\Assicment3\assicment3\assicment3\obj\Debug\assicment3.csproj.CoreCompileInputs.cache
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment2\Assicment3\assicment3\assicment3\obj\Debug\assicment3.exe
+C:\Users\Soyad\source\repos\Csharp code\Inehritance in c shrap\assicment1\Assicment2\Assicment3\assicment3\assicment3\obj\Debug\assicment3.pdb
